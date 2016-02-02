@@ -221,19 +221,17 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {94746365,144658773,114934518,112707993},--Sudo users                               
+    sudo_users = {114934518,104878785},--Sudo users                               
   disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/sina
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
+Mr.radical
+black difens
 
 Special thanks to
 awkward_potato
@@ -512,3 +510,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+, 
